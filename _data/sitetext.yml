@@ -65,10 +65,10 @@ timeline:
         align: left
     end: "¡Vive la <br> aventura!"
 
-about:
-    title: "About Us"
-    text: "our story"
-    section: about
+#about:
+ #   title: "About Us"
+  #  text: "our story"
+   # section: about
 
 #clients:
  #   section: clients
@@ -89,41 +89,41 @@ about:
         #logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Nuestro Equipo"
+    text: "Conoce a algunos de nuestros guías."
+    subtext: Todos nuestros guías estan altamente capacitados en manejo de cuerdas y rappel.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/1.jpg
+      - name: "Axel Palomares"
+        role: "Fundador"
+        image: assets/img/team/Axel.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
+          #- url: https://twitter.com
+           # icon: fab fa-twitter
+          - url: https://www.facebook.com/axel.palomares.16
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          #- url: https://linkedin.com
+          #  icon: fab fa-linkedin-in
+#      - name: "Larry Parker"
+ #       role: "Lead Marketer"
+  #      image: assets/img/team/2.jpg
+   #     social:
+    #      - url: https://twitter.com
+     #       icon: fab fa-twitter
+      #    - url: https://facebook.com
+       #     icon: fab fa-facebook-f
+        #  - url: https://linkedin.com
+         #   icon: fab fa-linkedin-in
+#      - name: "Diana Perterson"
+ #       role: "Lead Developer"
+  #      image: assets/img/team/3.jpg
+   #     social:
+    #      - url: https://twitter.com
+     #       icon: fab fa-twitter
+      #    - url: https://facebook.com
+       #     icon: fab fa-facebook-f
+        #  - url: https://linkedin.com
+         #   icon: fab fa-linkedin-in
           
 contact:
     title: "Reserva y vive la aventura"
@@ -131,7 +131,7 @@ contact:
     section: contact
     
 footer:
-    legal: "Privacy Policy"
+    legal: "Politica de Privacidad"
     social:
 #      - url: https://twitter.com
 #        icon: "fab fa-twitter"  
