@@ -6,78 +6,87 @@ header:
 
 services:
     title: "Experiencias"
-    text: "Lorem ipsum"
+    text: "Estas son algunas de las actividades que llevamos a cabo, ¿En cual nos acompañas?"
     section: services
     list:
-      - title: "Campamento"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-campground #find more at https://fontawesome.com/icons
+      - title: "Alpinismo"
+        desc: "Conoce algunas de las montañas de México, en las que podras hacer cumbre o caminatas. También podrás acampar en altura y disfrutar de una noche estrellada."
+        icon: fas fa-mountain #find more at https://fontawesome.com/icons
       - title: "Trekking"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: far fa-hiking       
-      - title: "Fotocaminata"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        desc: "Todos los lugares estan a una caminata de distancia si tienes tiempo. Explorarás caminos con increíbles vistas y disfrutaras de la naturaleza."
+        icon: fas fa-hiking       
+      - title: "Fotopaseo"
+        desc: "No solo conoceras lugares y caminos nuevos, tendrás la mejor ubicación para una gran foto."
+        icon: fas fa-camera
+      - title: "Rios Subterraneos"
+        desc: "Visitarás algunos ríos subterraneos de México, una experiencia inolvidable y altamente divertida."
+        icon: fas fa-water
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Lugares"
+    text: "Conoce algunos de los lugares que visitamos, cada uno tiene su encanto"
     section: portfolio
     
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "Servicios" 
+    text: "Para que tengas una mejor experiencia, todos los viajes incluyen:"
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Guias"
+        #year: "2009-2011"
+        desc: "En todo momento te acompañara un guía altamente capacitado. Cada guia estará destinado a un equipo pequeño y te ayudará en lo que necesites."
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Paramédico"
+        #year: "March 2011"
+        desc: "Paramédico certificado en Wilderness Advanced First Aid, que te acompañará en todo momento y botiquín especial para sitios remotos."
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Equipo individual"
+        #year: "2019"
+        desc: "Para tener una mejor experiencia, te prestamos el equipo que necesitarás en tu aventura: casco, lámpara frontal, arnés, bastones de trekking, mosquetones, crampones y piolet"
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Recuerdos"
+        #year: "2009-2011"
+        desc: "Durante el recorrido, tomarémos foto y video de la aventura. Así solo disfrutaras sin preocuparte por recordarlo."
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+        - title: "Transporte"
+        #year: "2009-2011"
+        desc: "Nosotros nos encargamos de llevarte y regresarte de la aventura. Tenemos salidas en distintos puntos."
+        image: assets/img/timeline/1.jpg
+        alt: 
+        align: left
+    end: "¡Vive la <br> aventura!"
 
 about:
     title: "About Us"
     text: "our story"
     section: about
 
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+#clients:
+ #   section: clients
+  #  max-height: 100px
+   # horizontal-scrolling: "" #"yes/no"
+    #list:
+     # - title: "envato"
+      #  url: https://github.com/raviriley/agency-jekyll-theme
+       # logo: assets/img/clients/envato.jpg
+     # - title: "designmodo"
+      #  url: https://github.com/raviriley/agency-jekyll-theme
+       # logo: assets/img/clients/designmodo.jpg
+     # - title: "themeforest"
+      #  url: https://github.com/raviriley/agency-jekyll-theme
+       # logo: assets/img/clients/themeforest.jpg
+      #- title: "Creative Market"
+       # url: https://github.com/raviriley/agency-jekyll-theme
+        #logo: assets/img/clients/creative-market.jpg
     
 team:
     title: "OUR AMAZING TEAM"
@@ -117,8 +126,8 @@ team:
             icon: fab fa-linkedin-in
           
 contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Reserva y vive la aventura"
+    text: "Dejanos un mensaje o llama al 123456789"
     section: contact
     
 footer:
