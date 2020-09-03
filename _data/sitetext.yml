@@ -1,7 +1,7 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: ¡Vive la aventura!
+    text: Conoce las montañas mexicanas
+    button: Conoce más
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
