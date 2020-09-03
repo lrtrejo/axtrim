@@ -47,7 +47,7 @@ timeline:
         align: right
       - title: "Equipo individual"
         #year: "2019"
-        desc: "Para tener una mejor experiencia, te prestamos el equipo que necesitarás en tu aventura: casco, lámpara frontal, arnés, bastones de trekking, mosquetones, crampones y piolet"
+        desc: "Para tener una mejor experiencia, te prestamos el equipo que necesitarás en tu aventura ':' casco, lámpara frontal, arnés, bastones de trekking, mosquetones, crampones y piolet"
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
