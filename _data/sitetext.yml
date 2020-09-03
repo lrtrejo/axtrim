@@ -1,6 +1,6 @@
 header:
-    title: ¡Vive la aventura!
-    text: Conoce las montañas mexicanas
+    title: Conoce las montañas mexicanas
+    text: ¡Vive la aventura!
     button: Conoce más
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
