@@ -5,17 +5,17 @@ header:
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "Services"
+    title: "Experiencias"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Campamento"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fas fa-campground #find more at https://fontawesome.com/icons
+      - title: "Trekking"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        icon: far fa-hiking       
+      - title: "Fotocaminata"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
