@@ -36,7 +36,7 @@ timeline:
       - title: "Guias"
         #year: "2009-2011"
         desc: "En todo momento te acompañara un guía altamente capacitado. Cada guia estará destinado a un equipo pequeño y te ayudará en lo que necesites."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/guias.jpg
         alt: 
         align: left
       - title: "Paramédico"
@@ -48,13 +48,13 @@ timeline:
       - title: "Equipo individual"
         #year: "2019"
         desc: "Para tener una mejor experiencia, te prestamos el equipo que necesitarás en tu aventura ':' casco, lámpara frontal, arnés, bastones de trekking, mosquetones, crampones y piolet"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/equipo.jpg
         alt: image alt text
         #align: #default is left       
       - title: "Recuerdos"
         #year: "2009-2011"
         desc: "Durante el recorrido, tomarémos foto y video de la aventura. Así solo disfrutaras sin preocuparte por recordarlo."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/recuerdos.jpg
         alt: 
         align: right
       - title: "Transporte"
