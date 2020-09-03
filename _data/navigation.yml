@@ -1,11 +1,11 @@
 nav:
-  - title: "Servicios"
+  - title: "Experiencias"
     section: services
 
-  - title: "Experiencias"
+  - title: "Montañas"
     section: portfolio
     
-  - title: "Te ofrecemos"
+  - title: "Servicios"
     section: timeline
 
   - title: "Nosotros "
